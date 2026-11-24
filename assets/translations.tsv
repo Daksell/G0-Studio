@@ -1,0 +1,258 @@
+Звук	Sound	Son
+Не подключено	Not connected	Non connecté
+Компр.	Comp.	Comp.
+Реверб.	Reverb	Réverb.
+Хорус	Chorus	Chorus
+Дилей	Delay	Delay
+Порог компрессии. При меньшем значении компрессор начинает срабатывать на более тихих нотах.	Compression threshold. Lower values apply compression to quieter notes.	Seuil de compression. Une valeur plus basse compresse les notes plus faibles.
+Степень сжатия сигнала выше порога. При большем значении разница между тихими и громкими нотами уменьшается.	Amount of compression above the threshold. Higher values reduce the difference between quiet and loud notes.	Taux de compression au-dessus du seuil. Une valeur plus élevée réduit l’écart entre les notes faibles et fortes.
+Выходной уровень компрессора. Помогает выровнять громкость при включении эффекта.	Compressor output level. Use it to match the volume when the effect is on.	Niveau de sortie du compresseur. Sert à équilibrer le volume lorsque l’effet est activé.
+Окраска отражений. Чем выше значение, тем ярче звучит хвост реверберации.	Tone of the reflections. Higher values make the reverb tail brighter.	Couleur des réflexions. Une valeur plus élevée rend la fin de la réverbération plus brillante.
+Длительность хвоста реверберации. Чем выше значение, тем дольше слышны отражения.	Reverb decay. Higher values make the reflections last longer.	Durée de la réverbération. Une valeur plus élevée prolonge les réflexions.
+Доля реверберации в звуке. При большем значении отражения слышны сильнее.	Amount of reverb in the mix. Higher values make the reflections louder.	Part de réverbération dans le mixage. Une valeur plus élevée accentue les réflexions.
+Скорость модуляции. Чем выше значение, тем быстрее колебания звука.	Modulation rate. Higher values make the sound fluctuate faster.	Vitesse de modulation. Une valeur plus élevée accélère les oscillations.
+Глубина модуляции. При большем значении колебания выражены сильнее.	Modulation depth. Higher values make the fluctuations more pronounced.	Profondeur de modulation. Une valeur plus élevée accentue les oscillations.
+Доля обработанного сигнала. При большем значении хорус слышен сильнее.	Amount of processed signal. Higher values make the chorus more audible.	Part du signal traité. Une valeur plus élevée rend le chorus plus audible.
+Количество и длительность повторов. При большем значении эхо затухает медленнее.	Number and duration of repeats. Higher values make the echo fade more slowly.	Nombre et durée des répétitions. Une valeur plus élevée fait durer l’écho.
+Громкость повторов. При большем значении эхо слышно сильнее.	Repeat level. Higher values make the echo louder.	Niveau des répétitions. Une valeur plus élevée rend l’écho plus fort.
+Интервал между повторами от 50 до 500 мс.	Interval between repeats, from 50 to 500 ms.	Intervalle entre les répétitions, de 50 à 500 ms.
+Громкость микрофона	Microphone volume	Volume du micro
+Громкость магнитного датчика	Magnetic pickup volume	Volume du capteur magnétique
+Микрофон	Microphone	Micro
+Магнитный датчик	Magnetic pickup	Capteur magnétique
+Выкл.	Off	Désactivé
+Настройки	Settings	Réglages
+Педали	Pedals	Pédales
+Пресеты	Presets	Préréglages
+Консоль	Console	Console
+Эффекты	Effects	Effets
+Режим —	Mode —	Mode —
+Режим корпуса, Vibration	Body mode, Vibration	Mode caisse, Vibration
+Режим датчика: 	Pickup mode: 	Mode du capteur : 
+Вернуться к громкости	Back to volume	Retour au volume
+Гитара	Guitar	Guitare
+Антисвист	Anti-feedback	Anti-larsen
+Настроить EQ	Edit EQ	Régler l’égaliseur
+Сохранить копию	Save a copy	Enregistrer une copie
+Эффекты\n	Effects\n	Effets\n
+Вкл	On	Actif
+Выкл	Off	Inactif
+Эффекты включены	Effects on	Effets activés
+Эффекты выключены	Effects off	Effets désactivés
+Выбери устройство и пресет	Select a device and preset	Choisissez un appareil et un préréglage
+ · активен	 · active	 · actif
+Локальный пресет	Local preset	Préréglage local
+Сначала прочитай настройки датчика	Read the pickup settings first	Lisez d’abord les réglages du capteur
+Дождись окончания обмена	Wait for the transfer to finish	Attendez la fin du transfert
+Сначала подключи датчик	Connect the pickup first	Connectez d’abord le capteur
+Переключить слот и оставить изменения без сохранения?	Switch slots and discard unsaved changes?	Changer d’emplacement et ignorer les modifications non enregistrées ?
+Переключить	Switch	Changer
+Отмена	Cancel	Annuler
+Нужны конечные числа	Enter finite numbers	Saisissez des nombres finis
+Значение 0…100 (повышай постепенно)	Value 0–100 (increase gradually)	Valeur de 0 à 100 (augmentez progressivement)
+Применить	Apply	Appliquer
+Нужно целое число 0…100	Enter a whole number from 0 to 100	Saisissez un entier de 0 à 100
+Описание параметров · 	Parameter help · 	Description des paramètres · 
+Подключи датчик, чтобы настроить педали текущего пресета.	Connect the pickup to edit the current preset’s pedals.	Connectez le capteur pour régler les pédales du préréglage actif.
+Подключить G0 Pro	Connect G0 Pro	Connecter G0 Pro
+ · Выключить	 · Turn off	 · Désactiver
+ · Включить	 · Turn on	 · Activer
+● Вкл	● On	● Actif
+○ Выкл	○ Off	○ Inactif
+ · мс	 · ms	 · ms
+Допустимо 	Allowed range: 	Plage autorisée : 
+ мс	 ms	 ms
+Допустимо 0…1	Allowed range: 0–1	Plage autorisée : 0 à 1
+ · Вкл	 · On	 · Actif
+ · Выкл	 · Off	 · Inactif
+Удерживай и перетащи плитку, чтобы изменить порядок.	Touch and hold a pedal, then drag to reorder it.	Maintenez le doigt sur une pédale et faites-la glisser pour changer l’ordre.
+Совместимость хоруса и делея пока не подтверждена	Using chorus and delay together has not been verified	L’utilisation simultanée du chorus et du delay reste à vérifier
+Проверяю настройки, полученные с датчика.	Checking the settings read from the pickup.	Vérification des réglages lus sur le capteur.
+ОК	OK	OK
+Название пресета	Preset name	Nom du préréglage
+Сохранить	Save	Enregistrer
+Введи название	Enter a name	Saisissez un nom
+Мой звук	My sound	Mon son
+Полный пресет сохранён в телефоне	Full preset saved on your phone	Préréglage complet enregistré sur le téléphone
+Сохранить пресет	Save preset	Enregistrer le préréglage
+Сохранить пресет в слот 	Save preset to slot 	Enregistrer le préréglage dans l’emplacement 
+Текущий звук будет записан в быстрый слот «	The current sound will be saved to the quick slot “	Le son actuel sera enregistré dans l’emplacement rapide « 
+». Предыдущие считанные настройки сохранятся в телефоне.	”. A copy of the previous settings will be saved on the phone.	 ». Une copie des réglages précédents sera enregistrée sur le téléphone.
+Выбери и прочитай нужный быстрый слот.	Select and read the quick slot you want.	Sélectionnez puis lisez l’emplacement rapide souhaité.
+Резерв слота 	Backup of slot 	Sauvegarde de l’emplacement 
+Мои полные пресеты	My full presets	Mes préréglages complets
+＋ Из текущего	＋ From current	＋ Depuis l’actuel
+Импорт	Import	Importer
+Экспорт	Export	Exporter
+В каждом пресете: оба EQ, антисвист, параметры педалей, включение и порядок. Аппаратные слоты записываются отдельной командой.	Each preset includes both EQs, anti-feedback settings, pedal parameters, on/off states and order. Saving to a hardware slot is a separate action.	Chaque préréglage inclut les deux égaliseurs, l’anti-larsen, les paramètres, l’état et l’ordre des pédales. L’enregistrement dans le capteur est une action séparée.
+Без имени	Untitled	Sans nom
+Пока нет сохранённых пресетов	No saved presets yet	Aucun préréglage enregistré
+Подключи датчик, выбери звук и нажми «Из текущего».	Connect the pickup, choose a sound and tap “From current”.	Connectez le capteur, choisissez un son et touchez « Depuis l’actuel ».
+Несовместимый формат пресета	Incompatible preset format	Format de préréglage incompatible
+Неверный микрофонный эффект	Invalid microphone effect	Effet micro invalide
+Открыть для просмотра	Open for preview	Ouvrir pour aperçu
+Применить к датчику	Apply to pickup	Appliquer au capteur
+Переименовать	Rename	Renommer
+Копировать	Duplicate	Dupliquer
+Записать в текущий быстрый слот	Save to current quick slot	Enregistrer dans l’emplacement rapide actif
+Удалить	Delete	Supprimer
+ · копия	 · copy	 · copie
+Удалить «	Delete “	Supprimer « 
+» из телефона?	” from the phone?	 » du téléphone ?
+Подключись и выбери аппаратный слот 1–4	Connect and choose hardware slot 1–4	Connectez-vous et choisissez un emplacement du capteur de 1 à 4
+Запись в слот 	Save to slot 	Enregistrer dans l’emplacement 
+Применить полный пресет	Apply full preset	Appliquer le préréglage complet
+Текущий слот будет перезаписан. Предыдущее состояние сохранится в резервной копии телефона. 	The current slot will be overwritten. Its previous settings will be backed up to the phone. 	L’emplacement actif sera écrasé. Ses réglages précédents seront sauvegardés sur le téléphone. 
+Изменится текущий звук датчика. 	This will change the current sound of the pickup. 	Le son actuel du capteur sera modifié. 
+В режиме корпуса микрофонные настройки не отправляются. 	Microphone settings are skipped in body mode. 	Les réglages du micro sont ignorés en mode caisse. 
+Параметры некоторых педалей ещё требуют проверки.	Some pedal parameters still need to be verified.	Certains paramètres de pédale restent à vérifier.
+Записать	Save	Enregistrer
+Дождись проверки настроек датчика.	Wait while the pickup settings are verified.	Attendez la fin de la vérification des réglages du capteur.
+Нет подтверждённых настроек для резервной копии	No verified settings available to back up	Aucun réglage vérifié à sauvegarder
+Экспорт готов	Export complete	Export terminé
+Файл слишком большой	File is too large	Fichier trop volumineux
+Не файл библиотеки G0 Studio	Not a G0 Studio library file	Ce fichier ne provient pas d’une bibliothèque G0 Studio
+Пресеты импортированы	Presets imported	Préréglages importés
+Файл: 	File: 	Fichier : 
+Отключить	Disconnect	Déconnecter
+Отключено	Disconnected	Déconnecté
+Перезагрузка	Reload settings	Relire les réglages
+Сброс к заводским настройкам	Factory reset	Réinitialisation d’usine
+Журнал обмена	Communication log	Journal des échanges
+Последние события	Recent events	Événements récents
+О версии	About	À propos
+Контроллер Double G0 Pro	Double G0 Pro controller	Contrôleur Double G0 Pro
+Сбросить настройки G0 Pro?	Reset G0 Pro settings?	Réinitialiser les réglages du G0 Pro ?
+Эквалайзеры и эффекты на датчике вернутся к заводским настройкам. Сохранённые в телефоне пресеты останутся.	The pickup’s EQs and effects will return to their factory settings. Presets saved on your phone will be kept.	Les égaliseurs et les effets du capteur retrouveront leurs réglages d’usine. Les préréglages enregistrés sur le téléphone seront conservés.
+Сбросить	Reset	Réinitialiser
+Сброс настроек G0 Pro…	Resetting G0 Pro settings…	Réinitialisation des réglages du G0 Pro…
+Датчик не вернул серийный номер для сброса.	The pickup did not return the serial number required for the reset.	Le capteur n’a pas renvoyé le numéro de série requis pour la réinitialisation.
+Датчик не подтвердил сброс настроек.	The pickup did not confirm the reset.	Le capteur n’a pas confirmé la réinitialisation.
+Отключено · заводские настройки восстановлены	Disconnected · factory settings restored	Déconnecté · réglages d’usine rétablis
+Заводские настройки восстановлены. Подключи G0 Pro снова.	Factory settings restored. Reconnect G0 Pro.	Réglages d’usine rétablis. Reconnectez le G0 Pro.
+Для подключения нужен доступ к Bluetooth	Bluetooth permission is required to connect.	L’autorisation Bluetooth est nécessaire pour se connecter.
+Устройства G0 Pro	G0 Pro devices	Appareils G0 Pro
+Последний G0 Pro	Last G0 Pro	Dernier G0 Pro
+Поиск завершён.	Scan complete.	Recherche terminée.
+G0 Pro не найден. Проверь, что датчик включён и отключён от Double+.	G0 Pro not found. Make sure it is on and disconnected from Double+.	G0 Pro introuvable. Vérifiez qu’il est allumé et déconnecté de Double+.
+Датчик не подтвердил запись. Перечитай настройки.	The pickup did not confirm the write. Reload the settings.	Le capteur n’a pas confirmé l’écriture. Relisez les réglages.
+Проверка записи · читаю настройки датчика	Verifying the write · reading pickup settings	Vérification de l’écriture · lecture des réglages
+Не удалось проверить запись чтением. Перечитай настройки перед сохранением.	Could not verify the write. Reload the settings before saving.	Écriture impossible à vérifier. Relisez les réglages avant d’enregistrer.
+Ошибка · 	Error · 	Erreur · 
+Ошибка	Error	Erreur
+ байт	 bytes	 octets
+Слот изменён на датчике. Предыдущая очередь остановлена.	The slot changed on the pickup. Pending commands were cancelled.	L’emplacement a changé sur le capteur. Les commandes en attente ont été annulées.
+Не удалось разобрать ответ: 	Could not read the response: 	Réponse illisible : 
+Датчик вернул записанное значение.	The pickup returned the written value.	Le capteur a renvoyé la valeur écrite.
+Датчик вернул другое значение. Показаны прочитанные настройки.	The pickup returned a different value. Its actual settings are shown.	Le capteur a renvoyé une autre valeur. Ses réglages réels sont affichés.
+ Остальные команды в очереди отменены.	 The remaining commands were cancelled.	 Les autres commandes en attente ont été annulées.
+Слот сохранён и проверен чтением	Slot saved and verified	Emplacement enregistré et vérifié
+Проверка не совпала. Показаны данные датчика, резервная копия сохранена.	Verification did not match. The pickup settings are shown and the backup was kept.	La vérification a échoué. Les réglages du capteur sont affichés et la sauvegarde a été conservée.
+G0 Pro подключён	G0 Pro connected	G0 Pro connecté
+Заряд датчика: ожидание данных	Pickup battery: waiting for data	Batterie du capteur : en attente de données
+Заряд датчика: 	Pickup battery: 	Batterie du capteur : 
+Общая громкость. Ожидание данных	Master volume. Waiting for data	Volume général. En attente de données
+Звук выключен. Нажать, чтобы включить	Sound muted. Tap to unmute	Son coupé. Touchez pour réactiver
+Общая громкость 	Master volume 	Volume général 
+%. Нажать, чтобы выключить звук	%. Tap to mute	 %. Touchez pour couper le son
+Подключить	Connect	Connecter
+‹ Звук	‹ Sound	‹ Son
+Ожидание данных пресета	Waiting for preset data	En attente du préréglage
+Полоса 	Band 	Bande 
+Частота, Гц	Frequency, Hz	Fréquence, Hz
+Усиление, дБ	Gain, dB	Gain, dB
+Добротность Q	Q factor	Facteur Q
+Добротность Q выбранной полосы	Q factor of selected band	Facteur Q de la bande sélectionnée
+Введи число во всех трёх полях	Enter a number in all three fields	Saisissez un nombre dans les trois champs
+Для антисвиста усиление должно быть не выше 0 дБ	Anti-feedback gain must be 0 dB or lower	Le gain anti-larsen doit être inférieur ou égal à 0 dB
+График эквалайзера. Перетаскивай точки для изменения частоты и усиления.	EQ graph. Drag the points to adjust frequency and gain.	Graphique de l’égaliseur. Faites glisser les points pour régler la fréquence et le gain.
+к	k	k
+Поиск G0 Pro…	Scanning for G0 Pro…	Recherche du G0 Pro…
+Завершаем предыдущее подключение…	Closing the previous connection…	Fermeture de la connexion précédente…
+Включи Bluetooth телефона.	Turn on Bluetooth on your phone.	Activez le Bluetooth du téléphone.
+Поиск Bluetooth недоступен. Попробуй ещё раз.	Bluetooth scanning is unavailable. Try again.	La recherche Bluetooth est indisponible. Réessayez.
+Не удалось запустить поиск Bluetooth.	Could not start the Bluetooth scan.	Impossible de lancer la recherche Bluetooth.
+Ошибка поиска Bluetooth (	Bluetooth scan error (	Erreur de recherche Bluetooth (
+). Попробуй ещё раз.	). Try again.	). Réessayez.
+Подключение…	Connecting…	Connexion…
+Не удалось начать подключение к G0 Pro.	Could not start connecting to G0 Pro.	Impossible de lancer la connexion au G0 Pro.
+G0 Pro не ответил. Проверь, что датчик включён, и попробуй снова.	G0 Pro did not respond. Make sure it’s on and try again.	Le G0 Pro n’a pas répondu. Vérifiez qu’il est allumé et réessayez.
+Сначала подключи G0 Pro	Connect G0 Pro first	Connectez d’abord le G0 Pro
+Слишком много команд	Too many commands	Trop de commandes
+Датчик не подтвердил команду 	The pickup did not confirm command 	Le capteur n’a pas confirmé la commande 
+. Очередь остановлена.	. The queue was stopped.	. La file d’attente a été arrêtée.
+Bluetooth не принял запись. Переподключись и перечитай настройки.	Bluetooth did not accept the write. Reconnect and reload the settings.	Bluetooth a refusé l’écriture. Reconnectez le capteur et relisez les réglages.
+Обнаружение служб…	Discovering services…	Recherche des services…
+Не удалось запросить службы G0 Pro.	Could not request G0 Pro services.	Impossible de demander les services du G0 Pro.
+Отключено · потеря связи	Disconnected · connection lost	Déconnecté · connexion perdue
+Отключено · код 	Disconnected · code 	Déconnecté · code 
+Не удалось включить уведомления	Could not enable notifications	Impossible d’activer les notifications
+Не удалось подписаться на датчик	Could not subscribe to pickup updates	Impossible de recevoir les mises à jour du capteur
+Ошибка подписки: 	Subscription error: 	Erreur d’abonnement : 
+G0 Pro подключён · чтение…	G0 Pro connected · reading…	G0 Pro connecté · lecture…
+Датчик отклонил команду: 	The pickup rejected the command: 	Le capteur a rejeté la commande : 
+%.0f мс	%.0f ms	%.0f ms
+. Нажми для ввода значения	. Tap to enter a value	. Touchez pour saisir une valeur
+Ожидался 4-байтовый серийный номер G0 Pro	Expected a 4-byte G0 Pro serial number	Le numéro de série du G0 Pro doit contenir 4 octets
+Компрессор	Compressor	Compresseur
+Реверберация	Reverb	Réverbération
+Задержка	Delay	Delay
+Недопустимое число	Invalid number	Nombre invalide
+Неверный HEX	Invalid hexadecimal value	Valeur hexadécimale invalide
+Ожидалось 325 байт G0 Pro	Expected 325 bytes from G0 Pro	325 octets attendus du G0 Pro
+Полоса	Band	Bande
+Нужны 20–22000 Гц, −12…+12 дБ и Q > 0	Enter 20–22000 Hz, −12 to +12 dB and Q > 0	Saisissez 20 à 22 000 Hz, −12 à +12 dB et Q > 0
+Неверный порядок	Invalid order	Ordre invalide
+Неверные данные EQ	Invalid EQ data	Données d’égalisation invalides
+Язык	Language	Langue
+GATT discovery status: 	GATT discovery status: 	État de la recherche GATT : 
+Compatible G0 Pro FFC1/FFC2 service not found. Details in G0StudioBLE log.	Compatible G0 Pro FFC1/FFC2 service not found. See the G0StudioBLE log.	Service G0 Pro FFC1/FFC2 compatible introuvable. Consultez le journal G0StudioBLE.
+Auxiliary mic-reverb read unavailable	Express microphone reverb data unavailable	Données auxiliaires de réverbération micro indisponibles
+Threshold	Threshold	Seuil
+Ratio	Ratio	Ratio
+Level	Level	Niveau
+Tone	Tone	Tonalité
+Feedback	Feedback	Réinjection
+Mix	Mix	Mixage
+Rate	Rate	Vitesse
+Depth	Depth	Profondeur
+Time	Time	Temps
+Выход	Output	Sortie
+Вход	Input	Entrée
+Цепь сигнала	Signal chain	Chaîne du signal
+Сдвинуть к выходу	Move toward output	Déplacer vers la sortie
+Сдвинуть ко входу	Move toward input	Déplacer vers l’entrée
+Тест задержек	Latency test	Test de latence
+Во время серии оставь органы управления датчика свободными. Тест возвращает исходный слот и временные параметры.	Leave the pickup controls untouched during a run. The test restores the original slot and temporary settings.	Ne touche pas aux commandes du capteur pendant un essai. Le test restaure le préréglage et les réglages temporaires.
+Пауза после подтверждения	Delay after acknowledgement	Pause après confirmation
+Штатные задержки	Default delays	Délais par défaut
+Пауза между частями команды	Delay between command fragments	Pause entre les fragments de commande
+Штатная пауза · 40 мс	Default delay · 40 ms	Pause par défaut · 40 ms
+Число циклов (1–24)	Cycles (1–24)	Cycles (1–24)
+Проверить полную загрузку пресета	Test loading a full preset	Tester le chargement d’un préréglage complet
+Начать серию	Start test run	Lancer un essai
+Остановить	Stop	Arrêter
+Измерить переподключение	Measure reconnection	Mesurer la reconnexion
+Применить для ручной проверки	Apply for manual testing	Appliquer pour un test manuel
+Экспорт журнала TSV	Export TSV log	Exporter le journal TSV
+Введи число от 1 до 24	Enter a number from 1 to 24	Saisis un nombre de 1 à 24
+Не удалось записать журнал	Could not write the log	Impossible d’écrire le journal
+Готово к измерению	Ready to measure	Prêt à mesurer
+Профиль для ручной проверки · 	Manual test profile · 	Profil de test manuel · 
+Идёт проверка · 	Testing · 	Essai en cours · 
+Измеряю переподключение…	Measuring reconnection…	Mesure de la reconnexion…
+Измерение остановлено	Measurement stopped	Mesure arrêtée
+Для измерения нужен считанный пресет без несохранённых изменений.	Read a preset with no pending edits to start measuring.	Lis un préréglage sans modification en attente pour lancer la mesure.
+Серия завершена · 	Run complete · 	Essai terminé · 
+Серия прервана · 	Run interrupted · 	Essai interrompu · 
+Подключение и чтение пресета подтверждены	Connection and preset read confirmed	Connexion et lecture du préréglage confirmées
+Переподключение прервано · 	Reconnection interrupted · 	Reconnexion interrompue · 
+Что измерять	What to measure	Mesures à effectuer
+Весь обмен	Full exchange	Échange complet
+Только EQ	EQ only	Égaliseur uniquement
+Только педали	Pedals only	Pédales uniquement
+Только быстрые слоты	Quick slots only	Emplacements rapides uniquement
+Только полная загрузка	Full preset load only	Chargement complet uniquement
+Подключи тот же датчик для завершения восстановления.	Connect the same pickup to finish recovery.	Reconnecte le même capteur pour terminer la restauration.
+Восстанавливаю исходный пресет…	Restoring the original preset…	Restauration du préréglage initial…
+Смена слота 	Slot change 	Changement d’emplacement 
