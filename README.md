@@ -2,6 +2,10 @@
 # G0-Studio
 This program is for a guitar pickup Double G0 Pro
 
+## Language
+
+EN RU FR
+
 ## Выпуск 0.4.5
 
 G0 Studio controls the Double G0 Pro guitar pickup via Bluetooth. The standard build 0.4.5 includes an equalizer, pedal control, quick slots, and a preset library.
