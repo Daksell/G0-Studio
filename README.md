@@ -25,6 +25,6 @@ python .\build.py --keystore 'C:\путь\к\ключу.jks' --version-code 76
 Установочный APK находится в [releases/G0Studio-0.4.5-restored.apk](releases/G0Studio-0.4.5-restored.apk).
 
 ## Фото
-<img width="574" height="1280" alt="photo_2026-11-25_00-03-55" src="https://github.com/user-attachments/assets/0e9a4c8e-a02c-4228-8ad9-f0a199c48583" />
-<img width="574" height="1280" alt="photo_2026-11-25_00-03-56" src="https://github.com/user-attachments/assets/d816b753-b752-4267-bec9-0e4d362c35f9" />
-<img width="574" height="1280" alt="photo_2026-11-25_00-03-56 (2)" src="https://github.com/user-attachments/assets/3e5f4779-e8d5-41a7-a962-bed42e5f5a9b" />
+<img width="143" height="320" alt="photo_2026-11-25_00-03-55" src="https://github.com/user-attachments/assets/0e9a4c8e-a02c-4228-8ad9-f0a199c48583" />
+<img width="143" height="320" alt="photo_2026-11-25_00-03-56" src="https://github.com/user-attachments/assets/d816b753-b752-4267-bec9-0e4d362c35f9" />
+<img width="143" height="320" alt="photo_2026-11-25_00-03-56 (2)" src="https://github.com/user-attachments/assets/3e5f4779-e8d5-41a7-a962-bed42e5f5a9b" />
