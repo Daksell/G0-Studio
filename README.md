@@ -1,6 +1,9 @@
 
 # G0-Studio
-This program is for a guitar pickup Double G0 Pro
+This program is for a guitar pickup Double G0 Pro.
+The original app Double+ is very buggy, so I made my own.
+
+Оригинальное приложение Double+ очень забагованное и я сделал свое.
 
 ## Language
 
