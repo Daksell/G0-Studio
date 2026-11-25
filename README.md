@@ -30,7 +30,7 @@ Without parameters, the script builds `build/G0Studio-0.4.5-unsigned.apk`. If th
 ```powershell
 python .\build.py --keystore 'C:\путь\к\ключу.jks' --version-code 76
 ```
-
+п
 In the original release 0.4.5, the internal build number is 52. The installation APK prepared for the return from the test version has the number 75. The package name in both cases is `ru.g0studio`.
 
 The installation APK is located in [releases/G0Studio-0.4.5-restored.apk](releases/G0Studio-0.4.5-restored.apk).
